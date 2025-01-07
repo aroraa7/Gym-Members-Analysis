@@ -35,7 +35,7 @@ This project analyzes a dataset of gym members' demographic, fitness, and health
 ---
 
 ## **Dataset Information**
-The dataset includes:
+The dataset was retrieved from kaggle, refer to link (here[https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset]), and it includes:
 - **Demographics**: Age, Gender, BMI
 - **Fitness Metrics**: Calories burned, Session duration, Heart rate (Avg_BPM, Max_BPM, Resting_BPM)
 - **Health Metrics**: Fat percentage, Water intake
